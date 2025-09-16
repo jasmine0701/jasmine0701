@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently student of **Almaty Managment University**
 
-- 📫 How to reach me **zasamakulbekova@gmail.com**
-
 - 🏄‍♀️ I'm currently learning **Excel, SQL, PowerBi, Econometrics**
 
 - 👩‍💻 All of my projects are available at [https://github.com/jasmine0701](https://github.com/jasmine0701)
+
+- 📫 How to reach me **zasamakulbekova@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
